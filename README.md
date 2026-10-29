@@ -41,4 +41,4 @@ HydroSHEDS / BasinATLAS (CC BY 4.0). GloFAS : Copernicus.
 
 ## Contact
 
-[contact@castaliaflow.com](mailto:contact@castaliaflow.com) — © 2026 Mathis Borie, tous droits réservés.
+[mathis.borie@castaliaflow.com](mailto:mathis.borie@castaliaflow.com) — © 2026 Mathis Borie, tous droits réservés.
